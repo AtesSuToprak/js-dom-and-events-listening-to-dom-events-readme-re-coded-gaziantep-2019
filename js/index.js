@@ -13,7 +13,7 @@ input.addEventListener('keydown', function(e){
   console.log(e.which);
 });
 
-const input = document.querySelector('input';
+const inputSecond = document.querySelector('inputSecond');
 
 input.addEventListener('keydown', function(e){
   
