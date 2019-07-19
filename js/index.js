@@ -23,4 +23,4 @@ input.addEventListener('keydown', function(e){
   } else {
     console.log('Not a "g"');
   }
-})
+});
